@@ -1,0 +1,6 @@
+config.inc.php
+app.yaml
+app.yaml.bak
+.DS_Store
+.idea
+composer.json

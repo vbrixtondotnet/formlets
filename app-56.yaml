@@ -1,0 +1,23 @@
+service: default
+runtime: php55
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /cron/.*
+  script: www/index.php
+  login: admin
+
+- url: /ajax/.*
+  script: www/ajax/index.php
+
+- url: /static
+  static_dir: www/static
+  http_headers:
+    Access-Control-Allow-Origin: "*"
+
+- url: /.*
+  script: www/index.php
+
+skip_files:
+- appengine/

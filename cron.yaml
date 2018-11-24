@@ -1,0 +1,10 @@
+cron:
+- description: daily summary job
+  url: /cron/daily/
+  schedule: every day 12:00
+- description: 15 min mail send job
+  url: /cron/15min/
+  schedule: every 15 minutes
+- description: 5 min mail check job
+  url: /cron/5min/
+  schedule: every 5 minutes

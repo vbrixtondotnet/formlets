@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="103px" height="91px" viewBox="0 0 103 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Logo - Border</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Branding-Specimin" sketch:type="MSArtboardGroup" transform="translate(-374.000000, -246.000000)">
+            <g id="Logo" sketch:type="MSLayerGroup" transform="translate(373.000000, 246.000000)">
+                <g id="Logo-+-Border" transform="translate(0.130270, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="Logo---Border" transform="translate(0.476190, 0.879121)">
+                        <rect id="Rectangle-14" fill="#FFFFFF" x="0.5" y="0" width="102" height="90"></rect>
+                        <rect id="Rectangle-11" fill="#18292F" x="12.3935393" y="12.1208791" width="78" height="9" rx="2"></rect>
+                        <rect id="Rectangle-11" fill="#93BB3C" x="12.3935393" y="26.1208791" width="9" height="9" rx="2"></rect>
+                        <rect id="Rectangle-11" fill="#18292F" x="26.3935393" y="13.1208791" width="10" height="63" rx="2"></rect>
+                        <path d="M41.3935393,30.1208791 C41.3935393,29.663304 41.3935393,28.126532 41.3935393,28.126532 C41.3935393,27.0188405 42.2858546,26.1208791 43.3903909,26.1208791 L88.3966877,26.1208791 C89.4995184,26.1208791 90.3935393,27.0167369 90.3935393,28.1182708 L90.3935393,33.1234874 C90.3935393,34.2266164 89.501224,35.1208791 88.3966877,35.1208791 L43.3903909,35.1208791 C42.2875602,35.1208791 41.3935393,34.2254747 41.3935393,33.1263257 L41.3935393,30.1208791 Z" id="Rectangle-13" fill="#FACA33"></path>
+                        <rect id="Rectangle-19" fill="#42A3B8" x="12.3935393" y="40.1208791" width="9" height="9" rx="2"></rect>
+                        <rect id="Rectangle-18" fill="#18292F" x="26.3935393" y="40.1208791" width="50" height="9" rx="2"></rect>
+                        <rect id="Rectangle-24" fill="#EE5443" x="12.3935393" y="54.1208791" width="9" height="9" rx="2"></rect>
+                        <rect id="Rectangle-21" fill="#42A3B8" x="41.3935393" y="54.1208791" width="49" height="9" rx="2"></rect>
+                        <rect id="Rectangle-29" fill="#18292F" x="12.3935393" y="68.1208791" width="37" height="9" rx="2"></rect>
+                        <rect id="Rectangle-25" fill="#93BB3C" x="54.3935393" y="68.1208791" width="36" height="9" rx="2"></rect>
+                        <rect id="Rectangle-25" fill="#EE5443" x="81.3935393" y="40.1208791" width="9" height="9" rx="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

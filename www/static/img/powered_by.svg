@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="19px" viewBox="0 0 200 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Form service by Formlets.com</title>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Powered-by-Formlets" sketch:type="MSLayerGroup">
+            <g id="Logo---Border">
+                <text id="Powered-by" sketch:type="MSTextLayer" font-family="Verdana" font-size="10" font-style="italic" font-weight="normal" fill="#192930">
+                    <tspan x="0" y="17">Form service by Formlets.com</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

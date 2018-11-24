@@ -1,0 +1,33 @@
+@page { margin: 0; }
+.text {
+	border: 1px solid #d9d9d9;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;   
+}
+.canvasC .actions .clear {
+	display: none;
+}
+
+
+body * {
+	visibility: hidden;
+}
+.fcc, .fcc * {
+	visibility: visible;
+}
+.fcc {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width:100%;
+}
+
+.fcc .fc.gc.pad {
+	margin-top: 10px;
+}
+
+.print_page {
+	display: none;
+}
